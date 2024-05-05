@@ -1,0 +1,26 @@
+Alex Korp,3000
+Nikita Borisenko,2000
+Sitarama Raju,1000
+Marilyn Monroe,2700
+Abraham Lincoln,4100
+Nelson Mandela,3200
+Queen Elizabeth,2550
+John F. Kennedy,2700
+Martin Luther King,3200
+Winston Churchill,4300
+Donald Trump,3400
+Bill Gates,5100
+Muhammad Ali,2000
+Mahatma Gandhi,1600
+Mother Teresa,2800
+Christopher Columbus,1800
+Charles Darwin,3500
+Elvis Presley,4000
+Albert Einstein,2200
+Paul McCartney,2500
+Queen Victoria,2650
+Pope Francis,1900
+Jawaharlal Nehru,2700
+Leonardo da Vinci,3200
+Vincent Van Gogh,3400
+Franklin D. Roosevelt,3000
